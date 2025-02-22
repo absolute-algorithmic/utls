@@ -8,7 +8,7 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/bogdanfinn/utls/dicttls"
+	"github.com/absolute-algorithmic/utls/dicttls"
 	"github.com/cloudflare/circl/hpke"
 )
 

@@ -1,4 +1,4 @@
-module github.com/bogdanfinn/utls
+module github.com/absolute-algorithmic/utls
 
 go 1.22.0
 
